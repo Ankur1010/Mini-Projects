@@ -1,0 +1,1 @@
+This mini project takes name of a location as input from user and gives their live weather updates as output. There are many ways to get live weather updates using the Python programming language. You can either use a paid API or use web scraping skills by searching for the location on Google and collecting data about its weather. Here we have scraped data from google.
