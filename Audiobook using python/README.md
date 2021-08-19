@@ -1,0 +1,1 @@
+An Audiobook is a recording or voiceover of a book or other work read aloud. You can listen to audiobooks on any smartphone, tablet, computer, home speaker system, or in-car entertainment system. In this mini project, I have created an audiobook with Python.
